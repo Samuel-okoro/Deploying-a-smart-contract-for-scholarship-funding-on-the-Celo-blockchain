@@ -1,0 +1,1 @@
+# Deploying-a-smart-contract-for-scholarship-funding-on-the-Celo-blockchain
